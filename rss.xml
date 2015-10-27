@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[replaced by a script]]></title>
+        <description><![CDATA[replaced by a script]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 27 Oct 2015 07:44:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is the scariest chart in the American economy today]]></title>
+            <description><![CDATA[<article><h1>This is the scariest chart in the American economy today</h1><p>The American economy is in better shape today than it was a year ago, and much better shape than it was five years ago.</p><img src="https://cdn0.vox-cdn.com/thumbor/BLMO803M4T9iF8FBpZxaaJ-k5HE=/0x176:1434x973/1080x600/cdn0.vox-cdn.com/uploads/chorus_image/image/45708032/Screen_Shot_2015-02-17_at_12.22.01_PM.0.0.png"></article>]]></description>
+            <link>http://www.vox.com/2015/2/19/8052189/long-term-unemployment</link>
+            <guid isPermaLink="false">66c52ac3-c5bf-4c8d-a1df-d37353721ee1</guid>
+            <pubDate>Tue, 27 Oct 2015 07:44:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
