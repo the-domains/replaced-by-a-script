@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[replaced by a script]]></title>
         <description><![CDATA[replaced by a script]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/replaced-by-a-script/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Oct 2015 07:44:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 27 Oct 2015 07:45:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/replaced-by-a-script/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[holocene by stretta]]></title>
+            <description><![CDATA[<article><h1>holocene by stretta</h1><p>hardware: arc4 software: electric dharma wheels I received a production-run arc4 with the final firmware on Friday. This signaled a mad scramble to update my work for that and the latest serialosc with arc support so it'll be ready when people start receiving their units in a few days.</p><img src="http://i.vimeocdn.com/video/139033291_1280.jpg"></article>]]></description>
+            <link>https://vimeo.com/21596928</link>
+            <guid isPermaLink="false">53ec8c70-30a3-4ed0-b8ec-8a44ea3dcadf</guid>
+            <pubDate>Tue, 27 Oct 2015 07:44:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This is the scariest chart in the American economy today]]></title>
             <description><![CDATA[<article><h1>This is the scariest chart in the American economy today</h1><p>The American economy is in better shape today than it was a year ago, and much better shape than it was five years ago.</p><img src="https://cdn0.vox-cdn.com/thumbor/BLMO803M4T9iF8FBpZxaaJ-k5HE=/0x176:1434x973/1080x600/cdn0.vox-cdn.com/uploads/chorus_image/image/45708032/Screen_Shot_2015-02-17_at_12.22.01_PM.0.0.png"></article>]]></description>
