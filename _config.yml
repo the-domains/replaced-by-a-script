@@ -1,0 +1,23 @@
+name: replaced by a script
+favicon: null
+layout_spectrum: 0.23138627060689032
+typography_spectrum: 0.8584569324739277
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3868479763623327
+  lightness: 0.8951934885699302
+  saturation: 0.047119401628151536
+  rhythmicContrast: 0.7000516424886882
+purpose: []
